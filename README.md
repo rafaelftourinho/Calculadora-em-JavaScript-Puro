@@ -4,7 +4,7 @@
 
 ## 📄 Resumo
 
-Projetinho rápido de simulação de direção de um carro via console.
+Projetinho rápido de uma calculadora em JavaScript puro, utilizando somente o alert.
 
 # ✔️ Tecnologias utilizadas
 
